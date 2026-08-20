@@ -10,7 +10,6 @@
   2. Type `cd` followed by a space, then drag and drop your project folder into the window and press "Enter". (This tells the computer to move into your project folder).
   3. Type this exact command and press "Enter" to start the program:
    ```bash
-   python distance_calculator.py
 
 # Input needed:
  1.A number for the kilometers.
